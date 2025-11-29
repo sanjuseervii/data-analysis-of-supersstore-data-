@@ -1,0 +1,116 @@
+top 10 customer Customer Name
+Sean Miller           25043.050
+Tamara Chand          19052.218
+Raymond Buch          15117.339
+Tom Ashbrook          14595.620
+Adrian Barton         14473.571
+Ken Lonsdale          14175.229
+Sanjit Chand          14142.334
+Hunter Lopez          12873.298
+Sanjit Engle          12209.438
+Christopher Conant    12129.072
+
+top 10 cities City
+New York City    252462.5470
+Los Angeles      173420.1810
+Seattle          116106.3220
+San Francisco    109041.1200
+Philadelphia     108841.7490
+Houston           63956.1428
+Chicago           47820.1330
+San Diego         47521.0290
+Jacksonville      44713.1830
+Detroit           42446.9440
+Name: Sales, dtype: float64
+
+top_product  Product Name
+Canon imageCLASS 2200 Advanced Copier                                          61599.824
+Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind    27453.384
+Cisco TelePresence System EX90 Videoconferencing Unit                          22638.480
+HON 5400 Series Task Chairs for Big and Tall                                   21870.576
+GBC DocuBind TL300 Electric Binding System                                     19823.479
+GBC Ibimaster 500 Manual ProClick Binding System                               19024.500
+Hewlett Packard LaserJet 3310 Copier                                           18839.686
+HP Designjet T520 Inkjet Large Format Printer - 24" Color                      18374.895
+GBC DocuBind P400 Electric Binding System                                      17965.068
+High Speed Automatic Electric Letter Opener                                    17030.312
+
+category wise profit
+Category
+Technology         167096.25
+Furniture          101557.57
+Office Supplies     58929.23
+
+product wise profit
+Product Name
+Canon imageCLASS 2200 Advanced Copier                            12782.41
+Cisco TelePresence System EX90 Videoconferencing Unit             5511.95
+Hewlett Packard LaserJet 3310 Copier                              3935.42
+Lexmark MX611dhe Monochrome Laser Printer                         3640.90
+HP Designjet T520 Inkjet Large Format Printer - 24" Color         3416.40
+Samsung Galaxy Mega 6.3                                           3044.31
+HON 5400 Series Task Chairs for Big and Tall                      2974.87
+3D Systems Cube Printer, 2nd Generation, Magenta                  2755.79
+Apple iPhone 5                                                    2447.16
+Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish     2386.92
+Name: Profit, dtype: float64
+
+
+city wise profit
+City
+New York City    38019.39
+Los Angeles      26027.52
+Seattle          17276.35
+Philadelphia     16260.07
+San Francisco    15018.12
+Houston           9427.55
+Jacksonville      8555.66
+Chicago           7438.95
+San Diego         7384.52
+Springfield       5531.75
+
+city wise profit
+City
+New York City    38037.31
+Los Angeles      25429.67
+Seattle          17573.89
+Philadelphia     16518.92
+San Francisco    14209.24
+Houston           9436.23
+San Diego         7718.38
+Chicago           7323.79
+Jacksonville      7290.25
+Springfield       5844.57
+Name: Profit, dtype: float64
+total loss: 1786
+mean loss 18.22
+
+city loss
+City
+New York City    145
+Los Angeles      143
+Seattle           98
+Philadelphia      90
+Houston           80
+San Francisco     78
+Chicago           64
+Columbus          39
+San Diego         36
+Dallas            28
+
+total loss: 1786
+mean loss 18.22
+
+TOP RFM CUSTOMERS
+                   recency  frequency   Monetary R_score F_score M_score rfm_score
+Customer Name
+Giulietta Baptist       13         16  4716.2880       4       4       4       444
+Arianne Irving          13         18  4375.7860       4       4       4       444
+James Galang             1         18  6366.3920       4       4       4       444
+Brosina Hoffman         23         24  6255.3510       4       4       4       444
+Pete Kriz                9         25  8646.9340       4       4       4       444
+Suzanne McNair          25         20  4464.8620       4       4       4       444
+John Lee                21         33  9576.3430       4       4       4       444
+Victoria Wilson         28         18  6134.0380       4       4       4       444
+Emily Phan              12         31  5478.0608       4       4       4       444
+Dan Reichenbach          3         24  6528.0340       4       4       4       444
