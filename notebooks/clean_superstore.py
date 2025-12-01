@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 data=pd.read_csv("data//superstore.csv")
 df=pd.DataFrame(data)
-'''print(df.head())
+print(df.head())
 print(df.shape)
 print(df.info())
 print(df.isnull().sum())
@@ -207,6 +207,7 @@ plt.title('avg sales heatmap (segment vs category)')
 plt.show()
 #pairplot(rfm)
 sns.pairplot(rfm[['recency','frequency','Monetary']])
-plt.show()'''
-#fm.to_csv('rfm_model.csv',index=False)
-print(df.columns)
+plt.show()
+rfm.to_csv('rfm_model.csv',index=False)
+dff.to_csv('final_superstore_data.csv',index=False)
+

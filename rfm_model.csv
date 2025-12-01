@@ -1,0 +1,794 @@
+Customer Name,recency,frequency,Monetary,R_score,F_score,M_score,rfm_score,rfm_segment
+Aaron Bergman,415,6,886.156,1,1,1,111,Lost
+Aaron Hawkins,12,11,1744.7,4,2,2,422,potenial loyalist
+Aaron Smayling,88,10,3050.692,2,2,3,223,needs attention
+Adam Bellavance,54,18,7755.62,3,4,4,344,loyal customer
+Adam Hart,34,20,3250.337,3,4,3,343,loyal customer
+Adam Shillingsburg,28,25,3255.31,4,4,3,443,loyal customer
+Adrian Barton,41,20,14473.570999999998,3,4,4,344,loyal customer
+Adrian Hane,60,16,1735.5140000000001,3,3,2,332,loyal customer
+Adrian Shami,41,3,58.82,3,1,1,311,Lost
+Aimee Bixby,41,12,966.71,3,3,1,331,loyal customer
+Alan Barnes,25,14,1113.838,4,3,2,432,loyal customer
+Alan Dominguez,29,12,6106.88,4,3,4,434,loyal customer
+Alan Haines,55,8,1587.452,3,1,2,312,Lost
+Alan Hwang,6,13,4805.344,4,3,4,434,loyal customer
+Alan Schoenberger,22,13,4260.784,4,3,4,434,loyal customer
+Alan Shonely,192,10,503.968,1,2,1,121,at risk
+Alejandro Ballentine,166,14,914.5319999999999,2,3,1,231,needs attention
+Alejandro Grove,278,14,2582.898,1,3,3,133,at risk
+Alejandro Savely,19,8,3214.236,4,1,3,413,potenial loyalist
+Aleksandra Gannaway,118,5,367.548,2,1,1,211,Lost
+Alex Avila,184,11,5563.56,2,2,4,224,needs attention
+Alex Grayson,8,9,660.972,4,2,1,421,potenial loyalist
+Alex Russell,111,5,1055.694,2,1,1,211,Lost
+Alice McCarthy,28,12,814.012,4,3,1,431,loyal customer
+Allen Armold,19,15,1056.39,4,3,1,431,loyal customer
+Allen Goldenen,114,8,200.945,2,1,1,211,Lost
+Allen Rosenblatt,125,7,2236.128,2,1,3,213,Lost
+Alyssa Crouse,232,5,925.8,1,1,1,111,Lost
+Alyssa Tate,21,8,1166.0720000000001,4,1,2,412,potenial loyalist
+Amy Cox,11,9,5527.846,4,2,4,424,potenial loyalist
+Amy Hunt,230,8,2495.3916,1,1,3,113,Lost
+Andrew Allen,259,12,1790.5120000000002,1,3,2,132,at risk
+Andrew Gjertsen,78,14,1419.247,2,3,2,232,needs attention
+Andrew Roberts,14,7,264.86400000000003,4,1,1,411,potenial loyalist
+Andy Gerbode,844,9,1455.038,1,2,2,122,at risk
+Andy Reiter,6,9,6608.448,4,2,4,424,potenial loyalist
+Andy Yotov,14,10,497.014,4,2,1,421,potenial loyalist
+Anemone Ratner,534,2,88.15,1,1,1,111,Lost
+Angele Hood,21,5,738.504,4,1,1,411,potenial loyalist
+Ann Blume,50,8,1515.862,3,1,2,312,Lost
+Ann Chong,6,18,2537.6859999999997,4,4,3,443,loyal customer
+Ann Steele,92,12,833.398,2,3,1,231,needs attention
+Anna Andreadi,55,18,5086.9349999999995,3,4,4,344,loyal customer
+Anna Chung,282,6,657.316,1,1,1,111,Lost
+Anna Gayman,97,15,3489.0396000000005,2,3,3,233,needs attention
+Anna Häberlin,410,23,7888.294,1,4,4,144,at risk
+Anne McFarland,162,22,5664.022,2,4,4,244,needs attention
+Anne Pryor,41,10,545.932,3,2,1,321,Lost
+Annie Thurman,13,16,3831.864,4,3,4,434,loyal customer
+Annie Zypern,160,12,1622.0179999999998,2,3,2,232,needs attention
+Anthony Garverick,77,5,170.584,2,1,1,211,Lost
+Anthony Jacobs,75,15,4867.344,3,3,4,334,loyal customer
+Anthony Johnson,166,21,4501.391,2,4,4,244,needs attention
+Anthony O'Donnell,501,1,161.28,1,1,1,111,Lost
+Anthony Rawles,58,13,4523.336,3,3,4,334,loyal customer
+Anthony Witt,20,8,649.376,4,1,1,411,potenial loyalist
+Arianne Irving,13,18,4375.786,4,4,4,444,Champions
+Art Ferguson,41,16,2052.908,3,3,2,332,loyal customer
+Art Foster,415,7,861.565,1,1,1,111,Lost
+Arthur Gainer,96,21,4510.797,2,4,4,244,needs attention
+Arthur Prichep,98,31,3323.556,2,4,3,243,needs attention
+Arthur Wiediger,46,16,2852.968,3,3,3,333,loyal customer
+Ashley Jarboe,121,9,1829.896,2,2,2,222,needs attention
+Astrea Jones,74,5,629.2479999999999,3,1,1,311,Lost
+Barbara Fisher,91,13,599.798,2,3,1,231,needs attention
+Barry Blumstein,105,8,744.3399999999999,2,1,1,211,Lost
+Barry Franz,39,10,1333.88,3,2,2,322,Lost
+Barry Französisch,74,21,2888.506,3,4,3,343,loyal customer
+Barry Gonzalez,28,12,2798.948,4,3,3,433,loyal customer
+Barry Pond,83,7,983.42,2,1,1,211,Lost
+Barry Weirich,212,3,385.516,1,1,1,111,Lost
+Bart Folk,25,6,272.95,4,1,1,411,potenial loyalist
+Bart Pistole,17,20,2442.044,4,4,3,443,loyal customer
+Bart Watters,121,17,4750.358,2,4,4,244,needs attention
+Becky Castell,202,18,2933.676,1,4,3,143,at risk
+Becky Martin,307,16,11789.63,1,3,4,134,at risk
+Becky Pak,89,11,1697.8609999999999,2,2,2,222,needs attention
+Ben Ferrer,16,27,5907.972,4,4,4,444,Champions
+Ben Peterman,1,18,3675.861,4,4,4,444,Champions
+Ben Wallace,203,10,1738.406,1,2,2,122,at risk
+Benjamin Farhat,65,8,1585.162,3,1,2,312,Lost
+Benjamin Patterson,39,6,1181.49,3,1,2,312,Lost
+Benjamin Venier,334,14,1523.2730000000001,1,3,2,132,at risk
+Berenike Kampe,77,16,659.1379999999999,2,3,1,231,needs attention
+Beth Fritzler,57,4,791.9899999999999,3,1,1,311,Lost
+Beth Paige,12,16,2475.157,4,3,3,433,loyal customer
+Beth Thompson,336,9,2567.656,1,2,3,123,at risk
+Bill Donatelli,33,19,5718.521,3,4,4,344,loyal customer
+Bill Eplett,119,9,4204.676,2,2,4,224,needs attention
+Bill Overfelt,137,12,2682.728,2,3,3,233,needs attention
+Bill Shonely,558,9,10501.653,1,2,4,124,at risk
+Bill Stewart,28,13,3887.834,4,3,4,434,loyal customer
+Bill Tyler,302,10,2186.6130000000003,1,2,2,122,at risk
+Bobby Elias,98,5,2261.438,2,1,3,213,Lost
+Bobby Odegard,75,2,130.83,3,1,1,311,Lost
+Bobby Trafton,560,7,603.876,1,1,1,111,Lost
+Brad Eason,481,10,748.026,1,2,1,121,at risk
+Brad Norvell,24,6,265.296,4,1,1,411,potenial loyalist
+Brad Thomas,659,3,415.19599999999997,1,1,1,111,Lost
+Bradley Drucker,35,10,4411.2429999999995,3,2,4,324,Lost
+Bradley Nguyen,9,17,1459.344,4,4,2,442,loyal customer
+Bradley Talbott,91,10,2684.4919999999997,2,2,3,223,needs attention
+Brenda Bowman,28,20,6765.728,4,4,4,444,Champions
+Brendan Dodson,278,4,320.54,1,1,1,111,Lost
+Brendan Murry,100,10,808.162,2,2,1,221,needs attention
+Brendan Sweed,35,10,2454.928,3,2,3,323,Lost
+Brian Dahlen,97,15,2783.189,2,3,3,233,needs attention
+Brian DeCherney,69,8,1538.11,3,1,2,312,Lost
+Brian Derr,9,5,582.646,4,1,1,411,potenial loyalist
+Brian Moss,33,29,7294.185,3,4,4,344,loyal customer
+Brian Stugart,582,11,3288.1099999999997,1,2,3,123,at risk
+Brian Thompson,20,20,3196.752,4,4,3,443,loyal customer
+Brooke Gillingham,36,8,1874.172,3,1,2,312,Lost
+Brosina Hoffman,23,24,6255.351,4,4,4,444,Champions
+Bruce Degenhardt,93,10,1526.5,2,2,2,222,needs attention
+Bruce Geld,57,7,1006.356,3,1,1,311,Lost
+Bruce Stewart,1,14,2562.382,4,3,3,433,loyal customer
+Bryan Davis,327,10,658.466,1,2,1,121,at risk
+Bryan Mills,218,14,1338.842,1,3,2,132,at risk
+Bryan Spruell,265,8,949.4300000000001,1,1,1,111,Lost
+Candace McMahon,131,10,1673.888,2,2,2,222,needs attention
+Cari Sayre,91,8,1278.954,2,1,2,212,Lost
+Cari Schnelling,162,7,537.632,2,1,1,211,Lost
+Carl Jackson,365,1,16.52,1,1,1,111,Lost
+Carl Ludwig,106,7,1262.0140000000001,2,1,2,212,Lost
+Carl Weiss,22,11,1136.592,4,2,2,422,potenial loyalist
+Carlos Daly,40,9,2033.968,3,2,2,322,Lost
+Carlos Meador,707,4,565.392,1,1,1,111,Lost
+Carlos Soltero,25,22,3036.547,4,4,3,443,loyal customer
+Carol Adams,96,10,3789.7228,2,2,4,224,needs attention
+Carol Darley,54,6,639.766,3,1,1,311,Lost
+Carol Triggs,96,18,3241.898,2,4,3,243,needs attention
+Caroline Jumper,189,20,11164.974,1,4,4,144,at risk
+Cassandra Brandow,47,22,5730.669,3,4,4,344,loyal customer
+Catherine Glotzbach,49,9,904.4680000000001,3,2,1,321,Lost
+Cathy Armstrong,401,10,1679.7240000000002,1,2,2,122,at risk
+Cathy Hwang,690,4,1537.236,1,1,2,112,Lost
+Cathy Prescott,82,14,5402.254,2,3,4,234,needs attention
+Chad Cunningham,457,12,1685.889,1,3,2,132,at risk
+Chad McGuire,8,7,1661.6100000000001,4,1,2,412,potenial loyalist
+Chad Sievert,489,7,884.64,1,1,1,111,Lost
+Charles Crestani,106,11,2471.65,2,2,3,223,needs attention
+Charles McCrossin,26,7,2533.314,4,1,3,413,potenial loyalist
+Charles Sheldon,232,8,844.4580000000001,1,1,1,111,Lost
+Charlotte Melton,8,7,1475.144,4,1,2,412,potenial loyalist
+Chloris Kastensmidt,39,32,3154.855,3,4,3,343,loyal customer
+Chris Cortes,20,21,3670.258,4,4,3,443,loyal customer
+Chris McAfee,385,8,2305.712,1,1,3,113,Lost
+Chris Selesnick,26,28,2754.216,4,4,3,443,loyal customer
+Christina Anderson,56,16,2638.3272,3,4,3,343,loyal customer
+Christina DeMoss,42,13,1205.584,3,3,2,332,loyal customer
+Christina VanderZanden,254,13,2830.6279999999997,1,3,3,133,at risk
+Christine Abelman,13,11,1421.954,4,2,2,422,potenial loyalist
+Christine Kargatis,120,12,2945.321,2,3,3,233,needs attention
+Christine Phan,160,14,5817.187,2,3,4,234,needs attention
+Christine Sundaresam,6,22,3202.1620000000003,4,4,3,443,loyal customer
+Christopher Conant,43,11,12129.072000000002,3,2,4,324,Lost
+Christopher Martinez,37,10,8954.019999999999,3,2,4,324,Lost
+Christopher Schild,2,14,3651.8585000000003,4,3,3,433,loyal customer
+Christy Brittain,26,12,1949.2,4,3,2,432,loyal customer
+Chuck Clark,0,19,2870.05,4,4,3,443,loyal customer
+Chuck Magee,436,9,287.99,1,2,1,121,at risk
+Chuck Sachs,27,6,550.644,4,1,1,411,potenial loyalist
+Cindy Chapman,39,13,1659.438,3,3,2,332,loyal customer
+Cindy Schnelling,424,8,970.1105,1,1,1,111,Lost
+Cindy Stewart,58,9,5690.054999999999,3,2,4,324,Lost
+Claire Gute,338,5,1148.7800000000002,1,1,2,112,Lost
+Claudia Bergmann,197,19,4246.4555,1,4,4,144,at risk
+Clay Cheatham,27,4,113.832,4,1,1,411,potenial loyalist
+Clay Ludtke,284,28,10880.546,1,4,4,144,at risk
+Clay Rozendal,57,6,2148.852,3,1,2,312,Lost
+Clytie Kelty,43,25,2372.75,3,4,3,343,loyal customer
+Corey Catlett,34,12,2540.631,3,3,3,333,loyal customer
+Corey Roper,470,4,475.9,1,1,1,111,Lost
+Corey-Lock,549,8,1300.076,1,1,2,112,Lost
+Corinna Mitchell,27,8,5890.508,4,1,4,414,potenial loyalist
+Craig Carreira,29,14,2269.7015,4,3,3,433,loyal customer
+Craig Carroll,798,12,2854.1150000000002,1,3,3,133,at risk
+Craig Leslie,260,7,2335.586,1,1,3,113,Lost
+Craig Molinari,1034,13,3984.4524,1,3,4,134,at risk
+Craig Reiter,78,6,1600.55,2,1,2,212,Lost
+Craig Yedwab,60,10,2004.0819999999999,3,2,2,322,Lost
+Cyma Kinney,82,14,1582.109,2,3,2,232,needs attention
+Cynthia Arntzen,120,17,3041.566,2,4,3,243,needs attention
+Cynthia Delaney,399,15,1860.732,1,3,2,132,at risk
+Cynthia Voltz,5,19,2370.3136,4,4,3,443,loyal customer
+Cyra Reiten,85,7,1397.8724,2,1,2,212,Lost
+Damala Kotsonis,21,27,3256.48,4,4,3,443,loyal customer
+Dan Campbell,37,18,3336.168,3,4,3,343,loyal customer
+Dan Lawera,100,7,444.024,2,1,1,211,Lost
+Dan Reichenbach,3,24,6528.034000000001,4,4,4,444,Champions
+Dana Kaydos,45,15,4282.176,3,3,4,334,loyal customer
+Daniel Byrd,21,12,2171.599,4,3,2,432,loyal customer
+Daniel Lacy,57,14,3272.2,3,3,3,333,loyal customer
+Daniel Raglin,50,13,8350.868,3,3,4,334,loyal customer
+Dario Medina,114,9,1322.034,2,2,2,222,needs attention
+Darren Budd,241,10,2469.6672,1,2,3,123,at risk
+Darren Koutras,7,8,1687.04,4,1,2,412,potenial loyalist
+Darren Powers,126,15,897.524,2,3,1,231,needs attention
+Darrin Martin,57,20,6345.103,3,4,4,344,loyal customer
+Darrin Sayre,93,19,1762.213,2,4,2,242,needs attention
+Darrin Van Huff,19,9,1119.483,4,2,2,422,potenial loyalist
+Dave Brooks,16,10,4151.51,4,2,4,424,potenial loyalist
+Dave Hallsten,277,18,3487.1980000000003,1,4,3,143,at risk
+Dave Kipp,42,13,2650.557,3,3,3,333,loyal customer
+Dave Poirier,6,14,2215.002,4,3,2,432,loyal customer
+David Bremer,48,14,2973.094,3,3,3,333,loyal customer
+David Flashing,699,6,2390.534,1,1,3,113,Lost
+David Kendrick,10,5,797.832,4,1,1,411,potenial loyalist
+David Philippe,811,4,1058.616,1,1,1,111,Lost
+David Smith,23,20,2881.8128,4,4,3,443,loyal customer
+David Wiener,69,9,1080.751,3,2,1,321,Lost
+Dean Braden,9,21,2332.577,4,4,3,443,loyal customer
+Dean Katz,10,19,4802.394,4,4,4,444,Champions
+Dean percer,84,29,7198.7609999999995,2,4,4,244,needs attention
+Deanra Eno,718,9,2550.874,1,2,3,123,at risk
+Deborah Brumfield,53,13,4655.897,3,3,4,334,loyal customer
+Debra Catini,23,7,1174.618,4,1,2,412,potenial loyalist
+Deirdre Greer,32,8,3195.818,3,1,3,313,Lost
+Delfina Latchford,22,17,1458.258,4,4,2,442,loyal customer
+Denise Leinenbach,57,8,585.02,3,1,1,311,Lost
+Denise Monton,22,13,4074.4719999999998,4,3,4,434,loyal customer
+Dennis Bolton,264,6,1081.466,1,1,1,111,Lost
+Dennis Kane,19,23,3318.486,4,4,3,443,loyal customer
+Dennis Pardue,358,14,5480.723999999999,1,3,4,134,at risk
+Denny Blanton,187,14,1711.692,1,3,2,132,at risk
+Denny Joy,637,5,2012.52,1,1,2,112,Lost
+Denny Ordway,133,13,1300.0315,2,3,2,232,needs attention
+Dianna Arnett,352,8,156.76,1,2,1,121,at risk
+Dianna Vittorini,29,13,3254.487,4,3,3,433,loyal customer
+Dianna Wilson,217,11,5271.628,1,2,4,124,at risk
+Dionis Lloyd,76,12,3539.322,2,3,3,233,needs attention
+Don Jones,48,13,2501.6879999999996,3,3,3,333,loyal customer
+Don Miller,481,10,1376.792,1,2,2,122,at risk
+Don Weiss,98,9,344.08,2,2,1,221,needs attention
+Dorothy Badders,107,14,3908.8028,2,3,4,234,needs attention
+Dorothy Dickinson,41,9,269.542,3,2,1,321,Lost
+Dorothy Wardle,242,10,1204.854,1,2,2,122,at risk
+Dorris liebe,119,6,755.602,2,1,1,211,Lost
+Doug Bickford,33,11,1989.05,3,2,2,322,Lost
+Doug Jacobs,12,8,3356.398,4,2,3,423,potenial loyalist
+Doug O'Connell,26,11,1267.316,4,2,2,422,potenial loyalist
+Duane Benoit,12,10,1155.202,4,2,2,422,potenial loyalist
+Duane Huffman,775,11,1043.096,1,2,1,121,at risk
+Duane Noonan,217,11,2139.79,1,2,2,122,at risk
+Ed Braxton,48,12,3644.978,3,3,3,333,loyal customer
+Ed Jacobs,302,8,2162.174,1,2,2,122,at risk
+Ed Ludwig,77,2,124.28,2,1,1,211,Lost
+Edward Becker,35,20,3236.314,3,4,3,343,loyal customer
+Edward Hooks,135,27,9940.380000000001,2,4,4,244,needs attention
+Edward Nazzal,287,9,2199.366,1,2,2,122,at risk
+Eileen Kiefer,44,4,1303.478,3,1,2,312,Lost
+Eleni McCrary,132,7,2567.0099999999998,2,1,3,213,Lost
+Elizabeth Moffitt,55,16,2339.598,3,4,3,343,loyal customer
+Ellis Ballard,90,7,964.448,2,1,1,211,Lost
+Elpida Rittenbach,421,5,1245.788,1,1,2,112,Lost
+Emily Burns,100,11,2767.219,2,2,3,223,needs attention
+Emily Ducich,135,14,3484.92,2,3,3,233,needs attention
+Emily Grady,22,9,1832.02,4,2,2,422,potenial loyalist
+Emily Phan,12,31,5478.0608,4,4,4,444,Champions
+Eric Barreto,161,7,944.6000000000001,2,1,1,211,Lost
+Eric Hoffmann,217,17,684.1709999999999,1,4,1,141,at risk
+Eric Murdock,151,6,933.704,2,1,1,211,Lost
+Erica Bern,0,6,1643.255,4,1,2,412,potenial loyalist
+Erica Hackney,405,8,825.9499999999999,1,2,1,121,at risk
+Erica Hernandez,2,11,1219.53,4,2,2,422,potenial loyalist
+Erica Smith,40,8,3510.4579999999996,3,2,3,323,Lost
+Erin Ashbrook,152,22,2752.441,2,4,3,243,needs attention
+Erin Creighton,53,7,461.914,3,1,1,311,Lost
+Erin Mull,47,6,228.99,3,1,1,311,Lost
+Erin Smith,28,20,4657.924,4,4,4,444,Champions
+Eudokia Martin,113,10,1041.0420000000001,2,2,1,221,needs attention
+Eugene Barchas,113,11,3071.126,2,2,3,223,needs attention
+Eugene Hildebrand,152,18,3082.653,2,4,3,243,needs attention
+Eugene Moren,48,21,4588.436000000001,3,4,4,344,loyal customer
+Eva Jacobs,57,8,2656.691,3,2,3,323,Lost
+Evan Bailliet,82,7,1186.326,2,1,2,212,Lost
+Evan Henry,105,8,923.884,2,2,1,221,needs attention
+Evan Minnotte,158,4,366.822,2,1,1,211,Lost
+Filia McAdams,7,15,2456.638,4,3,3,433,loyal customer
+Frank Atkinson,97,17,2984.054,2,4,3,243,needs attention
+Frank Carlisle,70,14,3418.742,3,3,3,333,loyal customer
+Frank Gastineau,34,11,1383.144,3,2,2,322,Lost
+Frank Hawley,37,21,4256.272,3,4,4,344,loyal customer
+Frank Merwin,36,20,3736.198,3,4,4,344,loyal customer
+Frank Olsen,38,15,2678.438,3,3,3,333,loyal customer
+Frank Preis,23,14,4046.746,4,3,4,434,loyal customer
+Fred Chung,184,10,3889.366,2,2,4,224,needs attention
+Fred Harton,212,14,2271.284,1,3,3,133,at risk
+Fred Hopkins,5,13,6987.196,4,3,4,434,loyal customer
+Fred McMath,145,14,2523.266,2,3,3,233,needs attention
+Fred Wasserman,362,3,79.75,1,1,1,111,Lost
+Gary Hansen,75,17,2819.4669999999996,3,4,3,343,loyal customer
+Gary Hwang,50,10,4172.8460000000005,3,2,4,324,Lost
+Gary McGarr,83,11,3582.8199999999997,2,2,3,223,needs attention
+Gary Mitchum,16,12,3078.624,4,3,3,433,loyal customer
+Gary Zandusky,7,14,4355.150000000001,4,3,4,434,loyal customer
+Gene Hale,387,3,1361.2440000000001,1,1,2,112,Lost
+Gene McClure,106,13,1255.682,2,3,2,232,needs attention
+George Ashbrook,149,10,3797.2320000000004,2,2,4,224,needs attention
+George Bell,62,20,1568.44,3,4,2,342,loyal customer
+George Zrebassa,157,5,2454.6220000000003,2,1,3,213,Lost
+Georgia Rosenberg,1135,5,1284.38,1,1,2,112,Lost
+Giulietta Baptist,13,16,4716.288,4,4,4,444,Champions
+Giulietta Dortch,5,6,1888.07,4,1,2,412,potenial loyalist
+Giulietta Weimer,28,9,2189.019,4,2,2,422,potenial loyalist
+Grace Kelly,112,14,6497.27,2,3,4,234,needs attention
+Grant Thornton,56,6,9351.212,3,1,4,314,Lost
+Greg Guthrie,43,24,2224.0,3,4,3,343,loyal customer
+Greg Hansen,2,3,146.94080000000002,4,1,1,411,potenial loyalist
+Greg Matthias,152,11,3163.628,2,2,3,223,needs attention
+Greg Maxwell,117,11,6049.966,2,2,4,224,needs attention
+Greg Tran,36,29,11820.119999999999,3,4,4,344,loyal customer
+Guy Armstrong,5,22,1398.382,4,4,2,442,loyal customer
+Guy Phonely,764,5,236.53,1,1,1,111,Lost
+Guy Thornton,34,7,226.436,3,1,1,311,Lost
+Hallie Redmond,13,5,940.588,4,1,1,411,potenial loyalist
+Harold Dahlen,768,7,251.36,1,1,1,111,Lost
+Harold Engle,12,8,755.462,4,2,1,421,potenial loyalist
+Harold Pawlan,30,10,1990.314,4,2,2,422,potenial loyalist
+Harold Ryan,159,14,5248.787,2,3,4,234,needs attention
+Harry Greene,54,10,785.628,3,2,1,321,Lost
+Harry Marie,2,20,8236.7648,4,4,4,444,Champions
+Heather Jas,126,6,358.1,2,1,1,211,Lost
+Heather Kirkland,151,15,4877.784,2,3,4,234,needs attention
+Helen Abelman,69,10,2163.3,3,2,2,322,Lost
+Helen Andreada,20,18,2584.158,4,4,3,443,loyal customer
+Helen Wasserman,117,15,4827.934,2,3,4,234,needs attention
+Henia Zydlo,35,6,886.52,3,1,1,311,Lost
+Henry Goldwyn,23,17,3247.642,4,4,3,443,loyal customer
+Henry MacAllister,247,7,736.276,1,1,1,111,Lost
+Herbert Flentye,21,19,2533.1639999999998,4,4,3,443,loyal customer
+Hilary Holden,72,6,218.668,3,1,1,311,Lost
+Hunter Glantz,6,11,3690.284,4,2,4,424,potenial loyalist
+Hunter Lopez,43,11,12873.297999999999,3,2,4,324,Lost
+Ionia McGrath,409,2,48.4,1,1,1,111,Lost
+Irene Maddox,390,21,4930.474,1,4,4,144,at risk
+Ivan Gibson,71,7,744.574,3,1,1,311,Lost
+Ivan Liston,142,14,5040.736,2,3,4,234,needs attention
+Jack Garza,757,7,2358.676,1,1,3,113,Lost
+Jack Lebron,8,12,1214.956,4,3,2,432,loyal customer
+Jack O'Briant,57,13,3254.949,3,3,3,333,loyal customer
+James Galang,1,18,6366.392,4,4,4,444,Champions
+James Lanier,6,7,1571.523,4,1,2,412,potenial loyalist
+Jamie Frazer,65,18,2239.606,3,4,3,343,loyal customer
+Jamie Kunitz,61,12,4262.2919999999995,3,3,4,334,loyal customer
+Jane Waco,42,14,7721.714,3,3,4,334,loyal customer
+Janet Lee,119,10,2203.7,2,2,2,222,needs attention
+Janet Martin,37,19,3159.1220000000003,3,4,3,343,loyal customer
+Janet Molinari,37,13,1804.146,3,3,2,332,loyal customer
+Jas O'Carroll,92,11,1934.272,2,2,2,222,needs attention
+Jason Fortune-,225,14,955.124,1,3,1,131,at risk
+Jason Gross,2,11,2240.58,4,2,3,423,potenial loyalist
+Jason Klamczynski,287,4,383.812,1,1,1,111,Lost
+Jasper Cacioppo,114,4,71.263,2,1,1,211,Lost
+Jay Fein,105,16,1911.844,2,4,2,242,needs attention
+Jay Kimmel,44,16,2136.458,3,4,2,342,loyal customer
+Jenna Caffey,175,4,1058.108,2,1,1,211,Lost
+Jennifer Braxton,7,16,1791.605,4,4,2,442,loyal customer
+Jennifer Ferguson,2,13,2309.432,4,3,3,433,loyal customer
+Jennifer Halladay,5,7,309.281,4,1,1,411,potenial loyalist
+Jennifer Jackson,483,6,709.178,1,1,1,111,Lost
+Jennifer Patt,37,15,1669.135,3,3,2,332,loyal customer
+Jeremy Ellison,193,13,1388.682,1,3,2,132,at risk
+Jeremy Farry,121,14,890.95,2,3,1,231,needs attention
+Jeremy Lonsdale,49,17,3173.874,3,4,3,343,loyal customer
+Jeremy Pistek,8,16,3635.594,4,4,3,443,loyal customer
+Jessica Myrick,102,10,1733.443,2,2,2,222,needs attention
+Jesus Ocampo,215,11,1090.838,1,2,2,122,at risk
+Jill Fjeld,54,16,4198.332,3,4,4,344,loyal customer
+Jill Matthias,0,7,303.948,4,1,1,411,potenial loyalist
+Jill Stevenson,119,8,1417.654,2,2,2,222,needs attention
+Jim Epp,48,20,7754.976,3,4,4,344,loyal customer
+Jim Karlsson,61,12,3760.028,3,3,4,334,loyal customer
+Jim Kriz,180,12,4760.434,2,3,4,234,needs attention
+Jim Mitchum,8,12,864.947,4,3,1,431,loyal customer
+Jim Radford,593,3,1156.658,1,1,2,112,Lost
+Jim Sink,42,9,990.1959999999999,3,2,1,321,Lost
+Jocasta Rupert,68,1,863.88,3,1,1,311,Lost
+Joe Elijah,46,22,8697.842999999999,3,4,4,344,loyal customer
+Joe Kamberova,84,19,4769.9,2,4,4,244,needs attention
+Joel Eaton,51,23,6760.8150000000005,3,4,4,344,loyal customer
+Joel Jenkins,752,3,195.0,1,1,1,111,Lost
+John Castell,158,16,2772.055,2,4,3,243,needs attention
+John Dryer,117,7,2152.352,2,1,2,212,Lost
+John Grady,223,9,1507.018,1,2,2,122,at risk
+John Huston,174,8,528.91,2,2,1,221,needs attention
+John Lee,21,33,9576.343,4,4,4,444,Champions
+John Lucas,614,11,2725.256,1,2,3,123,at risk
+John Murray,109,13,7625.076000000001,2,3,4,234,needs attention
+John Stevenson,534,9,3868.02,1,2,4,124,at risk
+Jonathan Doherty,394,32,7610.8640000000005,1,4,4,144,at risk
+Jonathan Howell,41,9,959.477,3,2,1,321,Lost
+Joni Blumstein,736,8,900.552,1,2,1,121,at risk
+Joni Sundaresam,463,8,469.169,1,2,1,121,at risk
+Joni Wasserman,5,10,1049.2379999999998,4,2,1,421,potenial loyalist
+Joseph Airdo,92,24,6491.026,2,4,4,244,needs attention
+Joseph Holt,29,14,7954.9980000000005,4,3,4,434,loyal customer
+Joy Bell-,43,7,644.1188,3,1,1,311,Lost
+Joy Daniels,112,11,385.43,2,2,1,221,needs attention
+Joy Smith,28,18,2516.494,4,4,3,443,loyal customer
+Julia Barnett,7,9,2518.115,4,2,3,423,potenial loyalist
+Julia Dunbar,300,6,695.442,1,1,1,111,Lost
+Julia West,461,7,1428.731,1,1,2,112,Lost
+Juliana Krohn,28,9,3747.668,4,2,4,424,potenial loyalist
+Julie Creighton,57,9,858.576,3,2,1,321,Lost
+Julie Kriz,117,17,2932.484,2,4,3,243,needs attention
+Julie Prescott,102,13,1707.71,2,3,2,232,needs attention
+Justin Deggeller,41,17,8828.0305,3,4,4,344,loyal customer
+Justin Ellison,20,7,2697.248,4,1,3,413,potenial loyalist
+Justin Hirsh,404,5,2256.3940000000002,1,1,3,113,Lost
+Justin MacKendrick,57,19,2833.9260000000004,3,4,3,343,loyal customer
+Justin Ritter,33,10,2201.686,3,2,2,322,Lost
+Kalyca Meade,14,19,2260.958,4,4,3,443,loyal customer
+Karen Bern,4,10,3152.6150000000002,4,2,3,423,potenial loyalist
+Karen Carlisle,407,10,2120.954,1,2,2,122,at risk
+Karen Daniels,484,16,8282.358,1,4,4,144,at risk
+Karen Ferguson,97,18,10604.266,2,4,4,244,needs attention
+Karen Seio,295,4,88.472,1,1,1,111,Lost
+Karl Braun,296,22,1569.464,1,4,2,142,at risk
+Katharine Harms,40,18,3312.864,3,4,3,343,loyal customer
+Katherine Ducich,41,10,1888.964,3,2,2,322,Lost
+Katherine Hughes,1,14,3100.612,4,3,3,433,loyal customer
+Katherine Murray,56,20,5620.186,3,4,4,344,loyal customer
+Katherine Nockton,19,15,2224.0860000000002,4,3,3,433,loyal customer
+Katrina Bavinger,117,9,908.821,2,2,1,221,needs attention
+Katrina Edelman,26,12,1453.2812000000001,4,3,2,432,loyal customer
+Katrina Willman,96,10,4416.5199999999995,2,2,4,224,needs attention
+Kean Nguyen,52,8,2171.962,3,2,2,322,Lost
+Kean Takahito,391,14,3057.1,1,3,3,133,at risk
+Kean Thornton,100,13,4642.088400000001,2,3,4,234,needs attention
+Keith Dawkins,112,28,8181.256,2,4,4,244,needs attention
+Keith Herrera,22,20,5229.695000000001,4,4,4,444,Champions
+Kelly Andreada,36,11,1519.506,3,2,2,322,Lost
+Kelly Collister,97,5,3908.262,2,1,4,214,Lost
+Kelly Lampkin,16,22,5016.488,4,4,4,444,Champions
+Kelly Williams,770,5,449.096,1,1,1,111,Lost
+Ken Black,230,23,2744.742,1,4,3,143,at risk
+Ken Brennan,1,9,983.922,4,2,1,421,potenial loyalist
+Ken Dana,289,7,907.158,1,1,1,111,Lost
+Ken Heidel,58,17,3918.9660000000003,3,4,4,344,loyal customer
+Ken Lonsdale,47,29,14175.229000000001,3,4,4,344,loyal customer
+Khloe Miller,15,9,453.538,4,2,1,421,potenial loyalist
+Kimberly Carter,57,7,1146.05,3,1,2,312,Lost
+Kristen Hastings,2,15,5990.799,4,3,4,434,loyal customer
+Kristina Nunn,98,12,2003.01,2,3,2,232,needs attention
+Kunst Miller,28,28,4909.472,4,4,4,444,Champions
+Larry Blacks,48,3,50.188,3,1,1,311,Lost
+Larry Hughes,151,3,287.426,2,1,1,211,Lost
+Larry Tron,26,3,329.876,4,1,1,411,potenial loyalist
+Laura Armstrong,154,26,8673.222,2,4,4,244,needs attention
+Laurel Beltran,152,24,4985.676,2,4,4,244,needs attention
+Laurel Elliston,21,9,1469.45,4,2,2,422,potenial loyalist
+Laurel Workman,88,15,2238.061,2,3,3,233,needs attention
+Lauren Leatherbury,249,10,2454.554,1,2,3,123,at risk
+Lela Donovan,552,1,5.304,1,1,1,111,Lost
+Lena Cacioppo,27,30,2580.7039999999997,4,4,3,443,loyal customer
+Lena Creighton,16,23,7663.126,4,4,4,444,Champions
+Lena Hernandez,21,15,2295.332,4,3,3,433,loyal customer
+Lena Radford,26,16,5142.892,4,4,4,444,Champions
+Linda Cazamias,41,14,4492.946,3,3,4,334,loyal customer
+Linda Southworth,178,14,2845.27,2,3,3,233,needs attention
+Lindsay Castell,436,7,3246.626,1,1,3,113,Lost
+Lindsay Shagiari,20,22,2988.674,4,4,3,443,loyal customer
+Lindsay Williams,33,11,3230.308,3,2,3,323,Lost
+Lisa DeCherney,414,7,1961.934,1,1,2,112,Lost
+Lisa Hazard,239,6,318.239,1,1,1,111,Lost
+Lisa Ryan,132,12,1879.306,2,3,2,232,needs attention
+Liz Carlisle,54,9,2095.064,3,2,2,322,Lost
+Liz MacKendrick,391,7,1346.774,1,1,2,112,Lost
+Liz Pelletier,40,9,756.606,3,2,1,321,Lost
+Liz Preis,9,13,3104.439,4,3,3,433,loyal customer
+Liz Thompson,34,14,2936.252,3,3,3,333,loyal customer
+Liz Willingham,205,5,1259.04,1,1,2,112,Lost
+Logan Currie,13,19,2633.582,4,4,3,443,loyal customer
+Logan Haushalter,385,19,1739.689,1,4,2,142,at risk
+Lori Olson,2,9,644.35,4,2,1,421,potenial loyalist
+Luke Foster,22,16,3930.5089999999996,4,4,4,444,Champions
+Luke Schmidt,96,14,1010.2560000000001,2,3,1,231,needs attention
+Luke Weiss,21,15,5420.514,4,3,4,434,loyal customer
+Lycoris Saunders,776,6,368.88000000000005,1,1,1,111,Lost
+Lynn Smith,34,12,1008.1360000000001,3,3,1,331,loyal customer
+Magdelene Morse,168,6,1314.023,2,1,2,212,Lost
+Marc Crier,76,13,2725.982,2,3,3,233,needs attention
+Marc Harrigan,294,10,1691.505,1,2,2,122,at risk
+Maria Bertelson,48,19,1548.702,3,4,2,342,loyal customer
+Maria Etezadi,42,22,10663.728000000001,3,4,4,344,loyal customer
+Maria Zettner,30,6,593.606,4,1,1,411,potenial loyalist
+Maribeth Dona,117,15,2716.412,2,3,3,233,needs attention
+Maribeth Schnelling,273,24,7443.6900000000005,1,4,4,144,at risk
+Maribeth Yedwab,29,13,2254.285,4,3,3,433,loyal customer
+Marina Lichtenstein,69,20,2722.843,3,4,3,343,loyal customer
+Maris LaWare,54,14,2885.26,3,3,3,333,loyal customer
+Mark Cousins,399,10,4432.138,1,2,4,124,at risk
+Mark Haberlin,376,9,400.016,1,2,1,121,at risk
+Mark Hamilton,170,9,2146.694,2,2,2,222,needs attention
+Mark Packer,718,12,2945.822,1,3,3,133,at risk
+Mark Van Huff,27,15,1560.05,4,3,2,432,loyal customer
+Mary O'Rourke,72,5,922.487,3,1,1,311,Lost
+Mary Zewe,282,10,2564.906,1,2,3,123,at risk
+MaryBeth Skach,434,7,475.65599999999995,1,1,1,111,Lost
+Mathew Reese,125,6,639.178,2,1,1,211,Lost
+Matt Abelman,64,34,4299.161,3,4,4,344,loyal customer
+Matt Collins,27,11,1303.893,4,2,2,422,potenial loyalist
+Matt Collister,51,17,2426.067,3,4,3,343,loyal customer
+Matt Connell,112,18,2258.192,2,4,3,243,needs attention
+Matt Hagelstein,155,6,1252.8,2,1,2,212,Lost
+Matthew Clasen,189,8,795.154,1,2,1,121,at risk
+Matthew Grinstein,29,14,3785.276,4,3,4,434,loyal customer
+Maureen Fritzler,421,8,937.039,1,2,1,121,at risk
+Maureen Gastineau,92,10,2350.188,2,2,3,223,needs attention
+Maureen Gnade,555,7,1342.282,1,1,2,112,Lost
+Maurice Satty,413,15,1613.402,1,3,2,132,at risk
+Max Engle,28,13,1908.4532,4,3,2,432,loyal customer
+Max Jones,22,15,6320.746,4,3,4,434,loyal customer
+Max Ludwig,29,13,2071.9139999999998,4,3,2,432,loyal customer
+Maxwell Schwartz,121,19,3144.678,2,4,3,243,needs attention
+Maya Herman,98,11,2203.7780000000002,2,2,2,222,needs attention
+Meg O'Connel,104,11,1687.0269999999998,2,2,2,222,needs attention
+Meg Tillman,49,10,2890.139,3,2,3,323,Lost
+Melanie Seite,452,5,370.348,1,1,1,111,Lost
+Michael Chen,1,14,3805.714,4,3,4,434,loyal customer
+Michael Dominguez,36,8,1204.91,3,2,2,322,Lost
+Michael Grace,116,7,1242.8329999999999,2,1,2,212,Lost
+Michael Granlund,99,13,776.384,2,3,1,231,needs attention
+Michael Kennedy,28,17,2302.368,4,4,3,443,loyal customer
+Michael Moore,7,15,3640.2560000000003,4,3,3,433,loyal customer
+Michael Nguyen,34,10,2477.946,3,2,3,323,Lost
+Michael Oakman,180,4,154.288,2,1,1,211,Lost
+Michael Paige,72,20,3983.6420000000003,3,4,4,344,loyal customer
+Michael Stewart,26,11,855.116,4,2,1,421,potenial loyalist
+Michelle Arnett,186,12,2453.284,1,3,3,133,at risk
+Michelle Ellison,92,6,1256.944,2,1,2,212,Lost
+Michelle Huthwaite,49,10,2984.948,3,2,3,323,Lost
+Michelle Lonsdale,79,4,742.082,2,1,1,211,Lost
+Michelle Moray,61,19,2749.881,3,4,3,343,loyal customer
+Michelle Tran,203,11,1319.4498,1,2,2,122,at risk
+Mick Brown,44,10,1428.231,3,2,2,322,Lost
+Mick Crebagga,41,19,2218.98,3,4,3,343,loyal customer
+Mick Hernandez,5,22,5503.093,4,4,4,444,Champions
+Mike Caudle,369,11,1581.9979999999998,1,2,2,122,at risk
+Mike Gockenbach,84,8,3061.543,2,2,3,223,needs attention
+Mike Kennedy,240,11,1031.602,1,2,1,121,at risk
+Mike Pelletier,16,18,4757.332,4,4,4,444,Champions
+Mike Vittorini,19,11,1734.574,4,2,2,422,potenial loyalist
+Mitch Gastineau,264,2,16.739,1,1,1,111,Lost
+Mitch Webber,17,14,5341.900000000001,4,3,4,434,loyal customer
+Mitch Willingham,44,3,5253.876,3,1,4,314,Lost
+Monica Federle,7,12,1758.3,4,3,2,432,loyal customer
+Muhammed Lee,100,3,162.232,2,1,1,211,Lost
+Muhammed MacIntyre,85,12,775.414,2,3,1,231,needs attention
+Muhammed Yedwab,71,19,3601.88,3,4,3,343,loyal customer
+Nancy Lomonaco,58,10,1418.0900000000001,3,2,2,322,Lost
+Naresj Patel,25,21,5529.62,4,4,4,444,Champions
+Nat Carroll,224,17,2461.404,1,4,3,143,at risk
+Nat Gilpin,48,16,1869.58,3,4,2,342,loyal customer
+Natalie DeCherney,27,18,4326.139,4,4,4,444,Champions
+Natalie Fritzler,79,13,8080.474,2,3,4,234,needs attention
+Natalie Webber,172,22,7234.014,2,4,4,244,needs attention
+Nathan Cano,41,14,2218.9900000000002,3,3,3,333,loyal customer
+Nathan Gelder,48,9,1395.9379999999999,3,2,2,322,Lost
+Nathan Mautz,160,14,6459.344,2,3,4,234,needs attention
+Neil Ducich,183,8,2893.455,2,2,3,223,needs attention
+Neil Französisch,525,4,377.16200000000003,1,1,1,111,Lost
+Neil Knudson,70,11,572.048,3,2,1,321,Lost
+Neola Schneider,6,15,2575.863,4,3,3,433,loyal customer
+Neoma Murray,244,15,2161.979,1,3,2,132,at risk
+Nick Crebassa,6,15,8241.739,4,3,4,434,loyal customer
+Nick Radford,210,13,2367.277,1,3,3,133,at risk
+Nick Zandusky,85,20,2488.31,2,4,3,243,needs attention
+Nicole Brennan,1165,2,273.87199999999996,1,1,1,111,Lost
+Nicole Fjeld,114,12,2031.472,2,3,2,232,needs attention
+Nicole Hansen,189,9,2518.6659999999997,1,2,3,123,at risk
+Noah Childs,204,9,1821.742,1,2,2,122,at risk
+Noel Staavos,174,23,2857.753,2,4,3,243,needs attention
+Nona Balk,19,17,1972.599,4,4,2,442,loyal customer
+Nora Paige,58,10,3908.402,3,2,4,324,Lost
+Nora Pelletier,406,6,1164.73,1,1,2,112,Lost
+Nora Preis,138,13,7903.1825,2,3,4,234,needs attention
+Odella Nelson,410,15,1567.52,1,3,2,132,at risk
+Olvera Toch,65,10,3818.624,3,2,4,324,Lost
+Pamela Coakley,2,5,1832.064,4,1,2,412,potenial loyalist
+Pamela Stobb,107,21,2181.479,2,4,2,242,needs attention
+Parhena Norris,30,13,1467.152,4,3,2,432,loyal customer
+Patricia Hirasaki,70,2,729.648,3,1,1,311,Lost
+Patrick Bzostek,25,10,740.356,4,2,1,421,potenial loyalist
+Patrick Gardner,36,26,3086.907,3,4,3,343,loyal customer
+Patrick Jones,39,13,1220.09,3,3,2,332,loyal customer
+Patrick O'Brill,4,22,7473.8282,4,4,4,444,Champions
+Patrick O'Donnell,0,13,2493.214,4,3,3,433,loyal customer
+Patrick Ryan,36,12,1840.178,3,3,2,332,loyal customer
+Paul Gonzalez,57,17,1987.164,3,4,2,342,loyal customer
+Paul Knutson,483,3,1441.152,1,1,2,112,Lost
+Paul Lucas,15,8,239.481,4,2,1,421,potenial loyalist
+Paul MacIntyre,386,4,1405.402,1,1,2,112,Lost
+Paul Prost,97,34,7252.608,2,4,4,244,needs attention
+Paul Stevenson,69,13,1278.639,3,3,2,332,loyal customer
+Paul Van Hugh,89,13,2876.046,2,3,3,233,needs attention
+Pauline Chand,881,3,1061.488,1,1,1,111,Lost
+Pauline Johnson,134,7,1677.536,2,1,2,212,Lost
+Pauline Webber,46,13,3454.916,3,3,3,333,loyal customer
+Penelope Sewall,236,13,6843.634,1,3,4,134,at risk
+Pete Armstrong,103,7,729.408,2,1,1,211,Lost
+Pete Kriz,9,25,8646.934,4,4,4,444,Champions
+Pete Takahito,71,6,158.46,3,1,1,311,Lost
+Peter Bühler,57,5,688.324,3,1,1,311,Lost
+Peter Fuller,834,19,9062.864,1,4,4,144,at risk
+Peter McVee,51,7,4115.662,3,1,4,314,Lost
+Philip Brown,97,11,1456.95,2,2,2,222,needs attention
+Philip Fox,196,10,2770.0,1,2,3,123,at risk
+Philisse Overcash,160,18,4893.043,2,4,4,244,needs attention
+Phillina Ober,86,10,1056.858,2,2,1,221,needs attention
+Phillip Breyer,687,2,132.738,1,1,1,111,Lost
+Phillip Flathmann,114,10,2206.1279999999997,2,2,2,222,needs attention
+Pierre Wener,464,12,3922.4150000000004,1,3,4,134,at risk
+Quincy Jones,25,13,6108.338,4,3,4,434,loyal customer
+Rachel Payne,496,12,954.6452,1,3,1,131,at risk
+Ralph Arnett,5,17,2617.906,4,4,3,443,loyal customer
+Ralph Kennedy,119,8,1460.192,2,2,2,222,needs attention
+Ralph Ritter,19,4,615.932,4,1,1,411,potenial loyalist
+Randy Bradley,68,6,1008.1959999999999,3,1,1,311,Lost
+Randy Ferguson,390,16,3309.15,1,4,3,143,at risk
+Raymond Buch,96,18,15117.339,2,4,4,244,needs attention
+Raymond Messe,345,9,1453.474,1,2,2,122,at risk
+Resi Pölking,33,25,5153.084,3,4,4,344,loyal customer
+Ricardo Emerson,1097,1,48.36,1,1,1,111,Lost
+Ricardo Sperren,76,9,3221.29,2,2,3,223,needs attention
+Richard Bierner,41,13,1864.156,3,3,2,332,loyal customer
+Richard Eichhorn,302,6,666.52,1,1,1,111,Lost
+Rick Bensley,9,23,4715.466,4,4,4,444,Champions
+Rick Duston,72,15,4272.93,3,3,4,334,loyal customer
+Rick Hansen,32,8,3621.3759999999997,3,2,3,323,Lost
+Rick Huthwaite,467,12,6979.18,1,3,4,134,at risk
+Rick Reed,170,10,3302.2619999999997,2,2,3,223,needs attention
+Rick Wilson,120,23,7397.401,2,4,4,244,needs attention
+Ritsa Hightower,519,3,740.382,1,1,1,111,Lost
+Rob Beeghly,25,9,528.546,4,2,1,421,potenial loyalist
+Rob Dowd,180,18,2832.904,2,4,3,243,needs attention
+Rob Haberlin,534,11,2085.7400000000002,1,2,2,122,at risk
+Rob Lucas,121,24,6234.91,2,4,4,244,needs attention
+Rob Williams,89,16,3279.746,2,4,3,243,needs attention
+Robert Barroso,648,7,221.084,1,1,1,111,Lost
+Robert Dilbeck,114,4,2745.892,2,1,3,213,Lost
+Robert Marley,6,11,5979.0960000000005,4,2,4,424,potenial loyalist
+Robert Waldorf,79,15,3495.646,2,3,3,233,needs attention
+Roger Barcio,54,7,2067.45,3,1,2,312,Lost
+Roger Demir,21,20,1419.737,4,4,2,442,loyal customer
+Roland Fjeld,89,14,2341.2960000000003,2,3,3,233,needs attention
+Roland Murray,299,2,98.35,1,1,1,111,Lost
+Roland Schwarz,36,14,4159.7699999999995,3,3,4,334,loyal customer
+Rose O'Brian,35,12,3815.478,3,3,4,334,loyal customer
+Ross Baird,32,18,5633.316000000001,3,4,4,344,loyal customer
+Ross DeVincentis,14,16,1137.616,4,4,2,442,loyal customer
+Roy Collins,369,10,966.409,1,2,1,121,at risk
+Roy Französisch,6,10,938.862,4,2,1,421,potenial loyalist
+Roy Phan,28,14,2055.356,4,3,2,432,loyal customer
+Roy Skaria,19,3,22.328,4,1,1,411,potenial loyalist
+Ruben Ausman,55,13,3546.224,3,3,3,333,loyal customer
+Ruben Dartt,114,21,3133.924,2,4,3,243,needs attention
+Russell Applegate,12,22,4793.543,4,4,4,444,Champions
+Russell D'Ascenzo,42,10,970.9420000000001,3,2,1,321,Lost
+Ryan Akin,61,9,1686.9225,3,2,2,322,Lost
+Ryan Crowe,110,8,652.644,2,2,1,221,needs attention
+Sally Hughsby,29,24,2465.6594999999998,4,4,3,443,loyal customer
+Sally Knutson,8,5,883.409,4,1,1,411,potenial loyalist
+Sally Matthias,421,6,244.49399999999997,1,1,1,111,Lost
+Sam Craven,780,17,3362.9636,1,4,3,143,at risk
+Sam Zeldin,35,20,3625.329,3,4,3,343,loyal customer
+Sample Company A,40,15,4624.572,3,3,4,334,loyal customer
+Sandra Flanagan,59,9,763.5459999999999,3,2,1,321,Lost
+Sandra Glassco,8,11,3406.5809999999997,4,2,3,423,potenial loyalist
+Sanjit Chand,349,22,14142.333999999999,1,4,4,144,at risk
+Sanjit Engle,9,19,12209.438000000002,4,4,4,444,Champions
+Sanjit Jacobs,95,24,3949.656,2,4,4,244,needs attention
+Saphhira Shifley,15,21,1324.028,4,4,2,442,loyal customer
+Sara Luxemburg,70,8,3046.532,3,2,3,323,Lost
+Sarah Bern,201,7,1348.02,1,1,2,112,Lost
+Sarah Brown,188,12,6410.996,1,3,4,134,at risk
+Sarah Foster,59,15,3422.7859999999996,3,3,3,333,loyal customer
+Sarah Jordon,29,10,1341.036,4,2,2,422,potenial loyalist
+Scot Coram,149,11,4371.9580000000005,2,2,4,224,needs attention
+Scot Wooten,81,10,1085.078,2,2,2,222,needs attention
+Scott Cohen,187,18,3729.7929999999997,1,4,4,144,at risk
+Scott Williamson,30,7,1966.65,4,1,2,412,potenial loyalist
+Sean Braxton,47,17,8057.891,3,4,4,344,loyal customer
+Sean Christensen,29,10,3650.473,4,2,3,423,potenial loyalist
+Sean Miller,79,15,25043.05,2,3,4,234,needs attention
+Sean O'Donnell,29,15,2602.5755,4,3,3,433,loyal customer
+Sean Wendt,162,6,1019.044,2,1,1,211,Lost
+Seth Vernon,101,32,11470.949999999999,2,4,4,244,needs attention
+Shahid Collister,30,20,5992.536,4,4,4,444,Champions
+Shahid Hopkins,23,15,2180.718,4,3,2,432,loyal customer
+Shahid Shariari,110,12,3056.8070000000002,2,3,3,233,needs attention
+Sharelle Roach,8,9,3233.481,4,2,3,423,potenial loyalist
+Shaun Chance,36,10,1874.998,3,2,2,322,Lost
+Shaun Weien,162,8,2835.564,2,2,3,223,needs attention
+Sheri Gordon,183,14,1884.798,2,3,2,232,needs attention
+Shirley Daniels,200,21,6121.114,1,4,4,144,at risk
+Shirley Jackson,253,7,1318.776,1,1,2,112,Lost
+Shirley Schmidt,491,6,613.4,1,1,1,111,Lost
+Shui Tom,125,12,433.34000000000003,2,3,1,231,needs attention
+Sibella Parks,327,10,1306.086,1,2,2,122,at risk
+Skye Norling,111,15,1860.418,2,3,2,232,needs attention
+Sonia Cooley,92,6,799.798,2,1,1,211,Lost
+Sonia Sunley,432,9,418.49,1,2,1,121,at risk
+Speros Goranitis,108,12,3118.892,2,3,3,233,needs attention
+Stefania Perrino,47,24,5440.319,3,4,4,344,loyal customer
+Stefanie Holloman,764,2,2096.392,1,1,2,112,Lost
+Stephanie Phelps,386,15,1872.4360000000001,1,3,2,132,at risk
+Stephanie Ulpright,20,18,2595.364,4,4,3,443,loyal customer
+Steve Carroll,126,8,1254.64,2,2,2,222,needs attention
+Steve Chapman,89,14,2576.408,2,3,3,233,needs attention
+Steve Nguyen,79,19,3127.9592,2,4,3,243,needs attention
+Steven Cartwright,187,26,5226.21,1,4,4,144,at risk
+Steven Roelle,196,12,4345.8859999999995,1,3,4,134,at risk
+Steven Ward,534,8,758.6959999999999,1,2,1,121,at risk
+Stewart Carmichael,41,21,4492.657,3,4,4,344,loyal customer
+Stewart Visinsky,320,25,4105.305,1,4,4,144,at risk
+Stuart Calhoun,30,5,279.25600000000003,4,1,1,411,potenial loyalist
+Stuart Van,76,6,1271.0900000000001,2,1,2,212,Lost
+Sue Ann Reed,63,21,4767.3415,3,4,4,344,loyal customer
+Sung Chung,414,1,14.112,1,1,1,111,Lost
+Sung Pak,79,24,4282.94,2,4,4,244,needs attention
+Sung Shariari,120,15,964.636,2,3,1,231,needs attention
+Susan Gilcrest,226,5,47.946,1,1,1,111,Lost
+Susan MacKendrick,606,6,1043.041,1,1,1,111,Lost
+Susan Pistek,70,14,3990.689,3,3,4,334,loyal customer
+Susan Vittorini,2,13,1903.491,4,3,2,432,loyal customer
+Suzanne McNair,25,20,4464.862,4,4,4,444,Champions
+Sylvia Foulston,48,17,3336.535,3,4,3,343,loyal customer
+Tamara Chand,399,12,19052.218,1,3,4,134,at risk
+Tamara Dahlen,37,16,1434.5480000000002,3,4,2,342,loyal customer
+Tamara Manning,103,15,2819.026,2,3,3,233,needs attention
+Tamara Willingham,64,12,5278.826,3,3,4,334,loyal customer
+Tanja Norvell,90,12,3130.221,2,3,3,233,needs attention
+Ted Butterfield,119,17,1451.361,2,4,2,242,needs attention
+Ted Trevino,31,14,4915.602,3,3,4,334,loyal customer
+Thais Sissman,357,2,4.833,1,1,1,111,Lost
+Thea Hendricks,344,7,2422.824,1,1,3,113,Lost
+Thea Hudgings,58,9,2942.772,3,2,3,323,Lost
+Theone Pippenger,8,16,4454.0560000000005,4,4,4,444,Champions
+Theresa Coyne,106,4,1038.26,2,1,1,211,Lost
+Theresa Swint,504,17,2163.6240000000003,1,4,2,142,at risk
+Thomas Boland,58,11,3589.296,3,2,3,323,Lost
+Thomas Brumley,49,4,816.1740000000001,3,1,1,311,Lost
+Thomas Seio,198,19,5371.09,1,4,4,144,at risk
+Thomas Thornton,183,15,1427.0439999999999,2,3,2,232,needs attention
+Tiffany House,117,13,1022.201,2,3,1,231,needs attention
+Tim Brockman,349,19,1602.376,1,4,2,142,at risk
+Tim Taslimi,406,3,439.5,1,1,1,111,Lost
+Toby Braunhardt,583,11,2198.45,1,2,2,122,at risk
+Toby Carlisle,27,16,4266.812,4,4,4,444,Champions
+Toby Gnade,337,9,3058.372,1,2,3,123,at risk
+Toby Ritter,193,7,675.9419999999999,1,1,1,111,Lost
+Toby Swindell,226,12,974.7819999999999,1,3,1,131,at risk
+Todd Boyes,146,13,834.328,2,3,1,231,needs attention
+Todd Sumrall,36,15,11891.751,3,3,4,334,loyal customer
+Tom Ashbrook,69,10,14595.62,3,2,4,324,Lost
+Tom Boeckenhauer,202,16,9108.742,1,4,4,144,at risk
+Tom Prescott,104,10,5329.0048,2,2,4,224,needs attention
+Tom Stivers,172,7,2054.14,2,1,2,212,Lost
+Tonja Turnell,12,14,5364.808,4,3,4,434,loyal customer
+Tony Chapman,153,11,1244.976,2,2,2,222,needs attention
+Tony Molinari,130,4,1094.6779999999999,2,1,2,212,Lost
+Tony Sayre,11,14,2243.274,4,3,3,433,loyal customer
+Tracy Blumstein,107,20,4737.486,2,4,4,244,needs attention
+Tracy Collins,4,10,742.5580000000001,4,2,1,421,potenial loyalist
+Tracy Hopkins,72,13,4234.0960000000005,3,3,4,334,loyal customer
+Tracy Poddar,350,10,1936.6399999999999,1,2,2,122,at risk
+Tracy Zic,35,9,1707.286,3,2,2,322,Lost
+Troy Blackwell,285,5,1240.871,1,1,2,112,Lost
+Troy Staebel,55,11,2820.424,3,3,3,333,loyal customer
+Trudy Brown,30,15,2797.668,4,3,3,433,loyal customer
+Trudy Glocke,114,10,2074.661,2,2,2,222,needs attention
+Trudy Schmidt,238,14,3368.094,1,3,3,133,at risk
+Valerie Dominguez,581,16,6442.254,1,4,4,144,at risk
+Valerie Mitchum,54,12,2454.866,3,3,3,333,loyal customer
+Valerie Takahito,999,9,1736.596,1,2,2,122,at risk
+Vicky Freymann,13,11,847.944,4,3,1,431,loyal customer
+Victor Preis,30,5,993.9019999999999,4,1,1,411,potenial loyalist
+Victoria Brennan,54,10,2005.596,3,2,2,322,Lost
+Victoria Pisteka,75,14,3360.526,3,3,3,333,loyal customer
+Victoria Wilson,28,18,6134.0380000000005,4,4,4,444,Champions
+Vivek Gonzalez,154,8,846.01,2,2,1,221,needs attention
+Vivek Grady,491,5,418.432,1,1,1,111,Lost
+Vivek Sundaresam,221,8,1055.981,1,2,1,121,at risk
+Vivian Mathis,117,8,380.69,2,2,1,221,needs attention
+William Brown,20,35,6129.71,4,4,4,444,Champions
+Xylona Preis,43,28,2374.658,3,4,3,343,loyal customer
+Yana Sorensen,9,12,6720.4439999999995,4,3,4,434,loyal customer
+Yoseph Carroll,4,8,5454.35,4,2,4,424,potenial loyalist
+Zuschuss Carroll,54,31,8025.707,3,4,4,344,loyal customer
+Zuschuss Donatelli,202,9,1493.944,1,2,2,122,at risk
